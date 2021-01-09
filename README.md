@@ -1,9 +1,7 @@
-# 329_Blockchain
-CPSC 329 repository for group project Blockchain
+# Blockchain
+repository for group project Blockchain
 
 BlockChain Cryptocurrency
-Unessay Final Project
-CPSC 329 - Fall 2020
 
 Group members:
 
@@ -15,11 +13,6 @@ Markus Pistner
     
 Logan Perry-Din
 
-
-
-Link to GitHub:
-
-https://github.com/neck8116/329_Blockchain
     
 
 
